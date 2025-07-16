@@ -43,3 +43,8 @@ If you’re serious about making and selling games — this isn’t the engine t
 1. Godot Engine (MIT-licensed)
 2. Unreal Engine (semi-open but with fair commericial model)
 3. Custom engines use SDL/SFML with open licenses
+
+---
+
+### Source I used
+GameMaker Source Code License Agreement: [https://gamemaker.io/en/legal/sourcecode](https://gamemaker.io/en/legal/sourcecode)
