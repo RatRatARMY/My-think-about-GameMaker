@@ -35,3 +35,11 @@ GameMaker today is structured around control and restriction — not collaborati
 If you find a game engine that can use for prototype project, GameMaker is for you.
 
 If you’re serious about making and selling games — this isn’t the engine to trust for the long haul.
+
+---
+
+### Alternative
+
+1. Godot Engine (MIT-licensed)
+2. Unreal Engine (semi-open but with fair commericial model)
+3. Custom engines use SDL/SFML with open licenses
