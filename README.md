@@ -12,39 +12,41 @@ Why do I say that?
    - No redistribution or custom tooling is allowed
 
 3. **No forking or multi-project flexibility**  
-   - License is restricted *per product*  
+   - The license is restricted to a *single product scope*  
    - You are not allowed to use modified code across multiple projects  
-   - 📌 Refer to **Section 2**, again – only "your Product" is permitted
+   - 📌 Refer to **Section 2** again – only "your Product" is permitted
 
 4. **No compatibility with GPL/LGPL or most open-source libraries**  
    - GPL/LGPL are **explicitly prohibited**  
-   - Only dynamic linking is tolerated, and even that is legally risky  
+   - Only dynamic linking is allowed, and even that carries legal risk  
    - 📌 Refer to **Section 3** of the License Agreement
 
 5. **No CI/CD or automated build support**  
-   - Any automation or sharing of runtime build violates the license  
-   - This makes GameMaker unsuitable for professional pipelines or studios
+   - Any automation or distribution of runtime builds violates the license  
+   - This makes GameMaker unsuitable for modern development pipelines or studio-scale deployment
 
 ---
 
 ### ❌ Conclusion
+
 > **You pay like it’s yours — but you can’t use it like it’s yours.**
 
-GameMaker today is structured around control and restriction — not collaboration or scalability.
+GameMaker today is built around control and restriction — not collaboration or scalability.
 
-If you find a game engine that can use for prototype project, GameMaker is for you.
-
-If you’re serious about making and selling games — this isn’t the engine to trust for the long haul.
-
----
-
-### Alternative
-
-1. Godot Engine (MIT-licensed)
-2. Unreal Engine (semi-open but with fair commericial model)
-3. Custom engines use SDL/SFML with open licenses
+If you’re looking for a tool for quick prototyping, GameMaker might work for you.  
+But if you’re serious about building and selling games — **this is not an engine you can trust long-term.**
 
 ---
 
-### Source I used
-GameMaker Source Code License Agreement (can changed any time): [https://gamemaker.io/en/legal/sourcecode](https://gamemaker.io/en/legal/sourcecode)
+### 🔁 Alternatives
+
+1. **Godot Engine** – Fully open source (MIT license)  
+2. **Unreal Engine** – Semi-open with a fair commercial model  
+3. **Custom C++ Engines** using **SDL**, **SFML**, or **OpenGL/Vulkan** with open licensing
+
+---
+
+### 📄 License Source
+
+The official GameMaker Source Code License Agreement (subject to change):  
+🔗 [https://gamemaker.io/en/legal/sourcecode](https://gamemaker.io/en/legal/sourcecode)
