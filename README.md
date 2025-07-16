@@ -47,4 +47,4 @@ If you’re serious about making and selling games — this isn’t the engine t
 ---
 
 ### Source I used
-GameMaker Source Code License Agreement: [https://gamemaker.io/en/legal/sourcecode](https://gamemaker.io/en/legal/sourcecode)
+GameMaker Source Code License Agreement (can changed any time): [https://gamemaker.io/en/legal/sourcecode](https://gamemaker.io/en/legal/sourcecode)
