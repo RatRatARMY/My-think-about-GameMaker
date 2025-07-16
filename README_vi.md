@@ -35,3 +35,8 @@ Nhưng nếu bạn nghiêm túc với việc phát hành và kinh doanh game, đ
 1. Godot Engine (giấy phép MIT)
 2. Unreal Engine (nửa mở nhưng có mô hình thương mại hợp lí)
 3. Engine tùy chỉnh làm bằng SDL/SFML với giấy phép mở
+
+---
+
+### Nguồn tôi đã sử dụng
+GameMaker Source Code License Agreement (có thể thay đổi bất cứ lúc nào): [https://gamemaker.io/en/legal/sourcecode](https://gamemaker.io/en/legal/sourcecode)
