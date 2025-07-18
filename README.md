@@ -50,3 +50,4 @@ But if you’re serious about building and selling games — **this is not an en
 
 The official GameMaker Source Code License Agreement (subject to change):  
 🔗 [https://gamemaker.io/en/legal/sourcecode](https://gamemaker.io/en/legal/sourcecode)
+🔗 [https://gamemaker.io/en/get](https://gamemaker.io/en/get)
