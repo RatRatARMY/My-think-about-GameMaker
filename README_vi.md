@@ -50,4 +50,5 @@ Nhưng nếu bạn nghiêm túc với việc **phát triển và phát hành gam
 
 - **GameMaker Source Code License Agreement** (có thể thay đổi bất cứ lúc nào):  
   🔗 [https://gamemaker.io/en/legal/sourcecode](https://gamemaker.io/en/legal/sourcecode)<br>
+- **Trang web các gói của GameMaker**:
   🔗 [https://gamemaker.io/en/get](https://gamemaker.io/en/get)
