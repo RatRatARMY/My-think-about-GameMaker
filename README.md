@@ -46,7 +46,7 @@ But if you’re serious about building and selling games — **this is not an en
 
 ---
 
-### 📄 License Source
+### 📄 Source I used
 
 The official GameMaker Source Code License Agreement (subject to change):
 🔗 [https://gamemaker.io/en/legal/sourcecode](https://gamemaker.io/en/legal/sourcecode)<br>
